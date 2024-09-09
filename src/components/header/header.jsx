@@ -9,10 +9,10 @@ export default class header extends Component {
             <a href="" className='header__link'>Blog</a>
           </li>
           <li className='header__item'>
-            <a href="" className='header__link'>Works</a>
+            <a href="https://lesson-4-works.vercel.app/" className='header__link'>Works</a>
           </li>
           <li className='header__item'>
-            <a href="" className='header__link'>Contact</a>
+            <a href="#" className='header__link'>Contact</a>
           </li>
         </ul>
       </div>
